@@ -1,7 +1,5 @@
 # Resources for learning Linux in 2021
 
-
-
 [TOC]
 
 ------
