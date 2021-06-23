@@ -20,7 +20,7 @@ An amazing video I would suggest to watch is the:
 
 ## Going for a daily swim
 
-Next logical step if you have done all the above would be to install Linux on a virtual machine using:
+Next logical step if you have done all the above would be to install Linux on a virtual machine using or if you feel confident grab a laptop or a old PC and install Linux on it daily drive it, breath the terminal :
 
 - [Virtualbox](https://www.virtualbox.org/)
 
@@ -37,7 +37,18 @@ Next logical step if you have done all the above would be to install Linux on a 
   - [elementary OS](http://elementaryos.org/)
   - [Debian](http://www.debian.org/)
 
-## More stuff coming...
+## Extra Resources
 
+### Subreddits:
 
+- [r/linux4noobs](https://www.reddit.com/r/linux4noobs/)
+- [r/linuxquestions](https://www.reddit.com/r/linuxquestions/)
+- [/r/linux](https://www.reddit.com/r/linux)
+
+### YouTube
+
+- [GeeksLesson](https://www.youtube.com/c/GeeksLesson/videos)
+- [A Taste of Linux - CS50's New Year's Seminars 2021](https://www.youtube.com/watch?v=Om1yU_IVB2w&t=1904s)
+- [MentalOutlaw](https://www.youtube.com/c/MentalOutlaw)
+- [The Absolute Beginners Guide to Linux](https://www.youtube.com/watch?v=dxrH1061CPw&list=PLTMkAHxXQRwiLmfsFMX4RA7dhoPge2D1X&index=5)
 
